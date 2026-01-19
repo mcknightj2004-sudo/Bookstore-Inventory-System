@@ -18,8 +18,30 @@ Features include listing books, summary reporting, genre reports, adding new boo
 - matplotlib
 
 ## Setup
+
 Install dependencies:
 
 ### Windows
 ```bash
 py -m pip install -r requirements.txt
+```
+## Run
+### Windows
+```bash
+py group_6.py
+```
+## Data File
+This program reads and writes to:
+``` Books data.csv ```
+The CSV must be in the same folder as the Python file.
+
+## Expected columns
+Your CSV should contain these column headers:
+- Title
+- Author
+- Genre
+- Cost
+- Stock
+
+
+
