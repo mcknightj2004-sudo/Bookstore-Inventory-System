@@ -28,6 +28,7 @@ py -m pip install -r requirements.txt
 ## Run
 ### Windows
 ```bash
+cd Bookstore
 py group_6.py
 ```
 ## Data File
